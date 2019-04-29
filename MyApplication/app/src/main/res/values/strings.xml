@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HydroStar</string>
+    <string name="presplash_color">#FFFFFF</string>
+    <string name="private_version">1549282685.28</string>
+    <string name="urlScheme">kivy</string>
+</resources>

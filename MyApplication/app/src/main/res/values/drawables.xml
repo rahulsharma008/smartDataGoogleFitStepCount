@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_launcher">res/drawable/ic_launcher.png</drawable>
+    <drawable name="icon">res/drawable/icon.png</drawable>
+    <drawable name="presplash">res/drawable/presplash.jpg</drawable>
+</resources>

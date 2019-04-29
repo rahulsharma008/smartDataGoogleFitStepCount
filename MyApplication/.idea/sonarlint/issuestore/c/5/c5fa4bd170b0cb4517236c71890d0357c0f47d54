@@ -1,0 +1,34 @@
+
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+tsquid:S3008"XRename this field "network_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¬å¡üÿÿÿÿ
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake network_state a static final constant or non-public and provide accessors if needed.(‰¬å¡üÿÿÿÿ
+˜squid:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±
+isquid:S3457‘"Q%n should be used in place of \n to produce the platform-specific line separator.(åƒ²Š
+†"squid:ClassVariableVisibilityCheck"SMake metrics a static final constant or non-public and provide accessors if needed.(»×”Æùÿÿÿÿ
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck"]Make orientationSensor a static final constant or non-public and provide accessors if needed.(Ž„öå
+Osquid:S1444"9Make this "public static accelerometerSensor" field final(¥Ä†t
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(ìý«
+Psquid:S3878‘"8Remove this array creation and simply pass the elements.(åƒ²Š
+Nsquid:S1444"7Make this "public static orientationSensor" field final(Ž„öå
+Isquid:S1444"-Make this "public static metrics" field final(»×”Æùÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"_Make accelerometerSensor a static final constant or non-public and provide accessors if needed.(¥Ä†t
+Msquid:S1854‹"5Remove this useless assignment to local variable "a".(©¹ñ¦
+Osquid:S1444"3Make this "public static network_state" field final(‰¬å¡üÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck"_Make magneticFieldSensor a static final constant or non-public and provide accessors if needed.(ÆðŸºûÿÿÿÿ
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+jsquid:S00101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°ŸÊýüÿÿÿÿ
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ
+-squid:S2275‘"Not enough arguments.(åƒ²Š
+^squid:S1126˜"AReplace this if-then-else statement by a single return statement.(‘ñÕƒøÿÿÿÿ
+7squid:S3878Q"Remove this array creation.(—¨Íúþÿÿÿÿ
+4squid:S1643‘"Use a StringBuilder instead.(åƒ²Š
+Usquid:S1444"9Make this "public static magneticFieldSensor" field final(ÆðŸºûÿÿÿÿ
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ
+>squid:S1481‹"&Remove this unused "a" local variable.(©¹ñ¦
+]squid:S3457Q"AFormat specifiers should be used instead of string concatenation.(—¨Íúþÿÿÿÿ

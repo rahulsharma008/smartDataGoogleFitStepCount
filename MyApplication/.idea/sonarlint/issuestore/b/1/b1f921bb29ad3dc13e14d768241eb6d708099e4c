@@ -1,0 +1,52 @@
+
+squid:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ıÁüÿÿÿÿ
+jsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Šë·
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆùíşÿÿÿÿ
+jsquid:S1192Â"SDefine a constant instead of duplicating this literal "Could not extract " 3 times.(˜‹ÊM
+^squid:S2142¦"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+^
+squid:S899Å"BDo something with the "boolean" value returned by "createNewFile".(‘›·ùÿÿÿÿ
+Gsquid:S00108â")Either remove or fill this block of code.(‹¦ˆ”ùÿÿÿÿ
+8squid:S2129" Remove this "String" constructor(…ÖïÎ
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄºËÓ
+Gsquid:S00108Ú")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+Rsquid:S1141Ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+˜squid:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËĞƒ
+Asquid:S00108[")Either remove or fill this block of code.(ï­£Ä
+Xsquid:S1854»"@Remove this useless assignment to local variable "disk_version".(ŞÓ©Ğ
+lsquid:S00100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÌàãıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck&"UMake mActivity a static final constant or non-public and provide accessors if needed.(ÜñßÛ
+Rsquid:S1141·"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+fsquid:S1192Å"IDefine a constant instead of duplicating this literal ".nomedia" 3 times.(‘›·ùÿÿÿÿ
+fsquid:S4042™"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+Nsquid:S2589O"7Remove this expression which always evaluates to "true"(ÌªŞÉ
+Lsquid:S1444'"0Make this "public static mImageView" field final(õÍ¿øÿÿÿÿ
+^squid:S1192Â"GDefine a constant instead of duplicating this literal " data." 3 times.(˜‹ÊM
+ksquid:S2095Ù"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰¶èüøÿÿÿÿ
+nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµÔ÷úÿÿÿÿ
+nsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷•ÕÖÿÿÿÿÿ
+Nsquid:S2696Š"6Make the enclosing method "static" or remove this set.(‘ğ×
+dsquid:S2095µ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(…‘‚
+ksquid:S2095æ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰¶èüøÿÿÿÿ
+jsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¾„
+_squid:S2095X"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÄÅ‹µ
+Fsquid:S1444&"/Make this "public static mActivity" field final(ÜñßÛ
+isquid:S1192¾"LDefine a constant instead of duplicating this literal "Extracting " 3 times.(ä§ÔŠÿÿÿÿÿ
+ksquid:S2095Æ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰¶èüøÿÿÿÿ
+lsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÔÆ´ûÿÿÿÿ
+W
+squid:S899™";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+fsquid:S1192¾"IDefine a constant instead of duplicating this literal " assets." 3 times.(ä§ÔŠÿÿÿÿÿ
+Msquid:S2696Ô"6Make the enclosing method "static" or remove this set.(ç§Ï
+Bsquid:S00108¦")Either remove or fill this block of code.(ä ¹€
+Psquid:S1481¨"3Remove this unused "filesDirectory" local variable.(Îæ÷±ıÿÿÿÿ
+_squid:S1854¨"BRemove this useless assignment to local variable "filesDirectory".(Îæ÷±ıÿÿÿÿ
+jsquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(óİ‚‰
+Asquid:S00108u")Either remove or fill this block of code.(ªŞ½¼
+osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Şì¨ÿÿÿÿÿ
+^
+squid:S899Ø"BDo something with the "boolean" value returned by "createNewFile".(‘›·ùÿÿÿÿ
+^
+squid:S899å"BDo something with the "boolean" value returned by "createNewFile".(‘›·ùÿÿÿÿ
+Ssquid:S2696È"6Make the enclosing method "static" or remove this set.(±®æ·ùÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck'"VMake mImageView a static final constant or non-public and provide accessors if needed.(õÍ¿øÿÿÿÿ
